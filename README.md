@@ -1,4 +1,4 @@
-Creating A Cloudflare Worker Using Rust That's Able To Fetch Remote Data
+# Creating A Cloudflare Worker Using Rust That's Able To Fetch Remote Data
 
 This repo contains demo project that implements fetch ability in a cloudflare worker that is using rust and rustwasm:
 
